@@ -70,10 +70,10 @@ Wi-Fi connected successfully
 [Watch the Demo](https://github.com/user-attachments/assets/fc5e7426-9a40-47e9-bb46-c8cebd9b76ec)
 
 ## References
-https://github.com/espressif/esp-idf/tree/master/examples/provisioning
-https://play.google.com/store/apps/details?id=com.espressif.provble
-https://github.com/nayuki/QR-Code-generator
-https://github.com/espressif/idf-extra-components/tree/master
-https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/
+- https://github.com/espressif/esp-idf/tree/master/examples/provisioning
+- https://play.google.com/store/apps/details?id=com.espressif.provble
+- https://github.com/nayuki/QR-Code-generator
+- https://github.com/espressif/idf-extra-components/tree/master
+- https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/
 
 
